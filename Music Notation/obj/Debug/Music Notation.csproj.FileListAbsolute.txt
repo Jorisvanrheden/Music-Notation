@@ -1,0 +1,20 @@
+C:\Users\Joris\source\repos\Music Notation\Music Notation\bin\Debug\Music Notation.exe.config
+C:\Users\Joris\source\repos\Music Notation\Music Notation\bin\Debug\Music Notation.exe
+C:\Users\Joris\source\repos\Music Notation\Music Notation\bin\Debug\Music Notation.pdb
+C:\Users\Joris\source\repos\Music Notation\Music Notation\obj\Debug\Music Notation.csprojAssemblyReference.cache
+C:\Users\Joris\source\repos\Music Notation\Music Notation\obj\Debug\Music_Notation.Properties.Resources.resources
+C:\Users\Joris\source\repos\Music Notation\Music Notation\obj\Debug\Music Notation.csproj.GenerateResource.cache
+C:\Users\Joris\source\repos\Music Notation\Music Notation\obj\Debug\Music Notation.csproj.CoreCompileInputs.cache
+C:\Users\Joris\source\repos\Music Notation\Music Notation\obj\Debug\Music Notation.exe
+C:\Users\Joris\source\repos\Music Notation\Music Notation\obj\Debug\Music Notation.pdb
+C:\Users\Joris\source\repos\Music Notation\Music Notation\obj\Debug\Music_Notation.MainForm.resources
+D:\repos\Music Notation\Music Notation\bin\Debug\Music Notation.exe.config
+D:\repos\Music Notation\Music Notation\bin\Debug\Music Notation.exe
+D:\repos\Music Notation\Music Notation\bin\Debug\Music Notation.pdb
+D:\repos\Music Notation\Music Notation\obj\Debug\Music Notation.csprojAssemblyReference.cache
+D:\repos\Music Notation\Music Notation\obj\Debug\Music_Notation.MainForm.resources
+D:\repos\Music Notation\Music Notation\obj\Debug\Music_Notation.Properties.Resources.resources
+D:\repos\Music Notation\Music Notation\obj\Debug\Music Notation.csproj.GenerateResource.cache
+D:\repos\Music Notation\Music Notation\obj\Debug\Music Notation.csproj.CoreCompileInputs.cache
+D:\repos\Music Notation\Music Notation\obj\Debug\Music Notation.exe
+D:\repos\Music Notation\Music Notation\obj\Debug\Music Notation.pdb
