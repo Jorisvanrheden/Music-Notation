@@ -47,9 +47,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Logic\Measure.cs" />
+    <Compile Include="Logic\MeasureLayer.cs" />
     <Compile Include="Logic\MeasureTime.cs" />
     <Compile Include="Logic\MusicSign.cs" />
     <Compile Include="Logic\Note.cs" />
+    <Compile Include="Logic\NoteDurations\WholeNote.cs" />
+    <Compile Include="Logic\NoteDurations\EighthNote.cs" />
+    <Compile Include="Logic\NoteDurations\HalfNote.cs" />
+    <Compile Include="Logic\NoteDurations\QuarterNote.cs" />
+    <Compile Include="Logic\NoteDurations\NoteDuration.cs" />
     <Compile Include="Logic\Notes.cs" />
     <Compile Include="Logic\SoundManager.cs" />
     <Compile Include="MainForm.cs">

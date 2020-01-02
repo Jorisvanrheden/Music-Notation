@@ -6,16 +6,8 @@ using System.Threading.Tasks;
 
 namespace Music_Notation.Logic
 {
-    public enum Notes
+    public abstract class NoteDuration
     {
-        E,
-        F,
-        G,
-        A,
-        B,
-        C,
-        D,
-        E1,
-        F1
+        public abstract float ToQuarters();
     }
 }

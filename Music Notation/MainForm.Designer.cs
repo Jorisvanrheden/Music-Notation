@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.uiMusic_Measure1 = new Music_Notation.UI.UIMusic_Measure();
             this.uiButton9 = new Music_Notation.UI.UIButton();
+            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.uiButton1 = new Music_Notation.UI.UIButton();
             this.uiButton3 = new Music_Notation.UI.UIButton();
             this.uiButton4 = new Music_Notation.UI.UIButton();
@@ -53,8 +53,24 @@
             this.panel1.Controls.Add(this.uiButton2);
             this.panel1.Location = new System.Drawing.Point(12, 12);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(776, 426);
+            this.panel1.Size = new System.Drawing.Size(1367, 426);
             this.panel1.TabIndex = 0;
+            // 
+            // uiMusic_Measure1
+            // 
+            this.uiMusic_Measure1.Location = new System.Drawing.Point(249, 232);
+            this.uiMusic_Measure1.Name = "uiMusic_Measure1";
+            this.uiMusic_Measure1.Size = new System.Drawing.Size(568, 66);
+            this.uiMusic_Measure1.TabIndex = 4;
+            this.uiMusic_Measure1.Text = "uiMusic_Measure1";
+            // 
+            // uiButton9
+            // 
+            this.uiButton9.Location = new System.Drawing.Point(134, 13);
+            this.uiButton9.Name = "uiButton9";
+            this.uiButton9.Size = new System.Drawing.Size(112, 42);
+            this.uiButton9.TabIndex = 3;
+            this.uiButton9.Text = "uiButton9";
             // 
             // flowLayoutPanel1
             // 
@@ -69,22 +85,6 @@
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             this.flowLayoutPanel1.Size = new System.Drawing.Size(230, 345);
             this.flowLayoutPanel1.TabIndex = 2;
-            // 
-            // uiMusic_Measure1
-            // 
-            this.uiMusic_Measure1.Location = new System.Drawing.Point(266, 83);
-            this.uiMusic_Measure1.Name = "uiMusic_Measure1";
-            this.uiMusic_Measure1.Size = new System.Drawing.Size(468, 71);
-            this.uiMusic_Measure1.TabIndex = 4;
-            this.uiMusic_Measure1.Text = "uiMusic_Measure1";
-            // 
-            // uiButton9
-            // 
-            this.uiButton9.Location = new System.Drawing.Point(134, 13);
-            this.uiButton9.Name = "uiButton9";
-            this.uiButton9.Size = new System.Drawing.Size(112, 42);
-            this.uiButton9.TabIndex = 3;
-            this.uiButton9.Text = "uiButton9";
             // 
             // uiButton1
             // 
@@ -154,7 +154,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(887, 450);
             this.Controls.Add(this.panel1);
             this.Name = "MainForm";
             this.Text = "Form1";

@@ -8,14 +8,22 @@ namespace Music_Notation.Logic
 {
     public class Note
     {
-        private Notes note;
-        
-        //Duration
-        //Object?
-
-        public Note()
+        public Notes NoteValue
         {
+            get { return note; }
+        }
+        public NoteDuration NoteDuration
+        {
+            get { return duration; }
+        }
 
+        private Notes note;
+        private NoteDuration duration;
+
+        public Note(Notes note, NoteDuration duration)
+        {
+            this.note = note;
+            this.duration = duration;
         }
     }
 }

@@ -6,16 +6,11 @@ using System.Threading.Tasks;
 
 namespace Music_Notation.Logic
 {
-    public enum Notes
+    public class MeasureLayer
     {
-        E,
-        F,
-        G,
-        A,
-        B,
-        C,
-        D,
-        E1,
-        F1
+        public MeasureLayer()
+        {
+                
+        }
     }
 }

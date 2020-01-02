@@ -18,7 +18,7 @@ namespace Music_Notation
         {
             InitializeComponent();
 
-
+            InitializeProgram();
         }
 
         private void InitializeProgram()
@@ -28,7 +28,7 @@ namespace Music_Notation
             //Start maininterface
             MainInterface mainInterface = new MainInterface();
 
-            mainInterface.Run();
+            uiMusic_Measure1.LinkMeasure(mainInterface.testMeasure);
         }
     }
 }
